@@ -76,7 +76,7 @@
         }
           .container .greet{
              top:-50%
-         		font-size: 30px;
+         		font-size: 34px;
               margin-left: 70px;
             	line-height: 1.3;
               font-weight: bold;
