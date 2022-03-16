@@ -75,7 +75,7 @@
           width: 74px;
         }
 
-            .greet {
+           .container .greet {
           overflow: hidden;
           font-weight: bold;
 					font-size: 30px;
