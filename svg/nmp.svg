@@ -74,7 +74,7 @@
         .skills_icon.nodejs>img {
           width: 74px;
         }
-          .container .greet{
+       .greet{
              top:-50%
          		font-size: 34px;
               margin-left: 70px;
