@@ -74,7 +74,7 @@
         .skills_icon.nodejs>img {
           width: 74px;
         }
-          .greet{
+          .container .greet{
              top:10%
          		font-size: 20px;
 }
@@ -82,7 +82,7 @@
 
 
 			<div class="container">
-     	<div class="greet">
+  	<div class="greet">
         Thế giới rộng lớn biết tìm nơi đâu người anh thương ?
         </div>
         <div class="earth"></div>
