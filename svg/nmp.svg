@@ -74,14 +74,19 @@
         .skills_icon.nodejs>img {
           width: 74px;
         }
-
+          .greet{
+             top:10%
+         		font-size: 20px;
+}
 			</style>
 
 
 			<div class="container">
 
         <div class="earth"></div>
- 
+      	<div class="greet">
+        Thế giới rộng lớn biết tìm nơi đâu người anh thương ?
+        </div>
 				<div class="greeting">
          Hello !<br/>I'm Nguyễn Minh Phát.
         </div>
