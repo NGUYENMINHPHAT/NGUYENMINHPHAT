@@ -68,19 +68,19 @@
 <!-- https://icons8.com -->
 <div align="center">
 
-  <a href="" target="blank">
+  <a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="" />
   </a>
-  <a href="" target="blank">
+  <a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="" />
   </a>
-  <a href="" target="blank">
+  <a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="" />
   </a>
-  <a href="" target="blank">
+  <a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="" />
   </a>
-  <a href="" target="top">
+  <a href="#" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="" />
   </a>
 </div>
