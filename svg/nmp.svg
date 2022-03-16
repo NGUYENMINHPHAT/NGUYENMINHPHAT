@@ -76,18 +76,16 @@
         }
 
        .greet{
-         margin: 0 0 0 30px;
+         top:10px;
          font-size: 30px;
        }
 			</style>
 
- 	<div class="greet">
-        Thế giới rộng lớn biết tìm nơi đâu người anh thương ?
-        </div>
+ 
  
 
 			<div class="container">
-    	<div class="greeting">
+    	<div class="greet">
         Thế giới rộng lớn biết tìm nơi đâu người anh thương ?
         </div>
         <div class="earth"></div>
