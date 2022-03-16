@@ -76,7 +76,7 @@
         }
 
        .greet{
-         top:10px;
+      margin: 0 0 0 -50px;
          font-size: 30px;
        }
 			</style>
@@ -85,11 +85,11 @@
  
 
 			<div class="container">
-    	<div class="greet">
+
+        <div class="earth"></div>
+      	<div class="greet">
         Thế giới rộng lớn biết tìm nơi đâu người anh thương ?
         </div>
-        <div class="earth"></div>
-  
 				<div class="greeting">
          Hello !<br/>I'm Nguyễn Minh Phát.
         </div>
