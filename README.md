@@ -91,9 +91,9 @@
 <br>
 <!-- https://github.com/shravan20/github-readme-quotes -->
 <div align="center">
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NGUYENMINHPHAT&repo=github-readme-stats)]
+  <p>Hello !!!</p>
+  <p>I'm Nguyễn Minh Phát</p>
+  <p>Full-Stack programmer from VietNam</p>
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=socrates) -->
 
 </div>
