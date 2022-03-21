@@ -93,7 +93,7 @@
 <div align="center">
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NGUYENMINHPHAT&repo=github-readme-stats)](https://github.com/NGUYENMINHPHAT/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NGUYENMINHPHAT&repo=github-readme-stats)
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=socrates) -->
 
 </div>
