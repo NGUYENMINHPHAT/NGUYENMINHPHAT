@@ -91,9 +91,9 @@
 <br>
 <!-- https://github.com/shravan20/github-readme-quotes -->
 <div align="center">
-  <p font-size:18px; font-weight: bold; color:red;>Hello !!!</p>
-  <p font-size:18px; font-weight: bold; color:red;>I'm Nguyễn Minh Phát</p>
-  <p font-size:18px; font-weight: bold; color:red;>Full-Stack programmer from VietNam</p>
+  <h2>Hello !!!</h2>
+  <h2>I'm Nguyễn Minh Phát</h2>
+  <h2>Full-Stack programmer from VietNam</h2>
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=socrates) -->
 
 </div>
