@@ -90,9 +90,11 @@
 <h2 align="center">📑 Random DEV Quotes 📑</h2>
 <br>
 <!-- https://github.com/shravan20/github-readme-quotes -->
-<div align="right">
+<div align="center">
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=socrates)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NGUYENMINHPHAT&repo=github-readme-stats)](https://github.com/NGUYENMINHPHAT/github-readme-stats)
+<!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=socrates) -->
 
 </div>
 
